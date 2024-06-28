@@ -39,5 +39,5 @@
 ## Could you give me a hug?
 
 <a href="http://huggle.jdf2.org/hug/kiritross">
-     <img src="https://huggle.jdf2.org/sig/kiritross.png">
+     <img src="https://huggle.jdf2.org/sig/kiritross.png" alt="Don't you think everyone deserves a hug?">
 </a>
